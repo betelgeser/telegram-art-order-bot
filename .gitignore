@@ -1,0 +1,8 @@
+credentials.json
+*.pem
+.env
+
+# временные файлы Python
+__pycache__/
+*.pyc
+*.log
